@@ -25,13 +25,13 @@ This is a beginner-friendly Python project that simulates a party entry system b
 ## 💡 Sample Output
 
 🎉 Welcome to the Age-Based Party 🎉
-Enter your age please:
-16
-Are you with guardian (yes/no)
-yes
-Do you want to buy a ticket? (yes/no)
-yes
-You have bought a ticket. You and your Guardian enjoy the party.
+- Enter your age please:
+- 16
+- Are you with guardian (yes/no)
+- yes
+- Do you want to buy a ticket? (yes/no)
+- yes
+- You have bought a ticket. You and your Guardian enjoy the party.
 
 
 
